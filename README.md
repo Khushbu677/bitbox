@@ -151,9 +151,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@marcosistoocommon](https://github.com/marcosistoocommon) | run_length_encode, truncate_middle |
 | [@CRYPTONIKAV](https://github.com/CRYPTONIKAV) | aliquot_sum, is_harshad, is_pandigital |
 | [@farukttbasar](https://github.com/farukttbasar) | permutation_count, is_coprime |
-| [@Wkhanex](https://github.com/Wkhanex) | combination_count, divisors, is_valid_parentheses, is_rotation |
+| [@Wkhanex](https://github.com/Wkhanex) | combination_count, divisors, is_valid_parentheses, is_rotation, leet_speak |
 
 | [@adityawaghamare](https://github.com/adityawaghamare) | longest_palindrome |
 | [@bongurishi](https://github.com/bongurishi) | sort_chars |
-| [@Enard52](https://github.com/Enard52) | collatz_sequence |
+| [@Enard52](https://github.com/Enard52) | collatz_sequence, add_binary, modpow, fibonacci_sequence |
 <!-- Contributors are added automatically after PRs are merged -->
