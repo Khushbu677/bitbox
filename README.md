@@ -150,8 +150,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 
 | [@marcosistoocommon](https://github.com/marcosistoocommon) | run_length_encode, truncate_middle |
 | [@CRYPTONIKAV](https://github.com/CRYPTONIKAV) | aliquot_sum, is_harshad, is_pandigital |
-| [@farukttbasar](https://github.com/farukttbasar) | permutation_count |
-| [@Wkhanex](https://github.com/Wkhanex) | combination_count, divisors |
+| [@farukttbasar](https://github.com/farukttbasar) | permutation_count, is_coprime |
+| [@Wkhanex](https://github.com/Wkhanex) | combination_count, divisors, is_valid_parentheses, is_rotation |
 
 | [@adityawaghamare](https://github.com/adityawaghamare) | longest_palindrome |
 | [@bongurishi](https://github.com/bongurishi) | sort_chars |
