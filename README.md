@@ -158,4 +158,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Enard52](https://github.com/Enard52) | collatz_sequence, add_binary, modpow, fibonacci_sequence |
 | [@pardhusriparupudi](https://github.com/pardhusriparupudi) | set_difference |
 | [@Doomguy-BFG9000](https://github.com/Doomguy-BFG9000) | mime_from_ext |
+| [@masyarakatai](https://github.com/masyarakatai) | ip_to_int, quarter_of_year, month_name |
+| [@Cosmosynth](https://github.com/Cosmosynth) | decimal_to_words |
 <!-- Contributors are added automatically after PRs are merged -->
